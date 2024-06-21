@@ -2,6 +2,7 @@
 A simple Calculator for general purposes.
 
 Why use it?
+<br>
 Its useful for simple calculations.
 
 Features
