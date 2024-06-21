@@ -25,5 +25,6 @@ html
 css
 <br>
 javascript
+<br>
 How to Run?
 To run my application you simply need to clone the project and run the html file.
